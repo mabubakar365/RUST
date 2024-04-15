@@ -50,6 +50,7 @@
      Cons of manual control
       Memory leaks
       Dangling pointers
+      
 */
 fn main() {
     println!("Handling Heap");

@@ -18,6 +18,7 @@
      The main idea is that whenever Rust sees the {} placeholder, it calls the Display trait for the type being printed. 
 
 */
+
 use std::fmt;
 
 /*  #[derive(Debug)] instructs the Rust compiler to automatically generate an implementation of the Debug trait for Footballer struct 
